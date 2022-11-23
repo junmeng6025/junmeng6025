@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Meng, Jun comming from China :cn:
-- 🌱 I’m currently studying Automotive Engineering (M.Sc.) at Technical University of Munich (TUM) in Germany :de:
+- 👋 Hi, I’m Meng, Jun comming from China :cn
+- 🌱 I’m currently studying Automotive Engineering (M.Sc.) at Technical University of Munich (TUM) in Germany 🇩🇪
 - 👀 I’m interested in autonomous driving, in the field of perception
 - 📫 How to reach me: junmeng6995@gmail.com
 
