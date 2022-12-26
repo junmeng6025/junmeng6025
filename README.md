@@ -4,7 +4,7 @@
 - 📫 How to reach me: junmeng6995@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact)
 
 <!---
 junmeng6025/junmeng6025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
