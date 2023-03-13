@@ -4,7 +4,9 @@ I'm studying **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc*
 I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 Currently I'm doing an internship of ADAS at **Porsche Engineering®**.
 
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
+--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)
 
 <!---
