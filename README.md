@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Meng, Jun comming from China 🇨🇳
-- 🌱 I’m currently studying Automotive Engineering (M.Sc.) at Technical University of Munich (TUM) in Germany 🇩🇪
-- 👀 I’m interested in autonomous driving, in the field of perception
-- 📫 How to reach me: junmeng6995@gmail.com
+# Jun Meng
+Hi~ I'm Jun Meng from China.  
+Currently I'm studying **Automotive Engineering M.Sc** and **Mechatronics and Robotics M.Sc** at **Technical University of Munich** in Germany.  
+I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)
