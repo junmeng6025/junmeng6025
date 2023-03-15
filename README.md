@@ -4,18 +4,17 @@ I'm studying **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc*
 I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
 
-***
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)  
 
-I have experience & interest in:
+<!-- I have experience & interest in:
 - Application of Deep Learning / CV in Autonomous Driving
 - ROS, ROS2 software development
 - Stereo depth estimation
 - AprilTag detection
-- A html beginner, trying to build a personal homepage
+- A html beginner, trying to build a personal homepage -->
 
 <!---
 junmeng6025/junmeng6025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
