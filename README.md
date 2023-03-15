@@ -2,7 +2,7 @@
 Hi~:wave: I'm Jun from China.  
 I'm studying **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc** at **Technical University of Munich** in Germany.  
 I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
-Currently I'm doing an internship of ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
+Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
 
 ***
 <!---
