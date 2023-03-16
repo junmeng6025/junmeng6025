@@ -9,15 +9,12 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
 --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junmeng6025&layout=compact&hide=jupyter%20notebook" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="tum.jpg" height="250"//>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junmeng6025&repo=github-readme-stats&layout=compact&hide=jupyter%20notebook" />
 </a>
 
-<img src="tum.jpg" height="250"/>
+<!-- <img src="tum.jpg" height="250"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)   -->
 
 <!-- I have experience & interest in:
 - Application of Deep Learning / CV in Autonomous Driving
