@@ -8,11 +8,8 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
 --->
 
-<a href="munich.jpg">
-  <img align="center" src="munich.jpg" height="165"/>
-</a>
-<a href="tum.jpg">
-  <img align="center" src="tum.jpg" height="165"/>
+<a href="munich.png">
+  <img align="center" src="munich.png" height="165"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook" />
