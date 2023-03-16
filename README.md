@@ -1,9 +1,5 @@
 # Meng, Jun
 Hi~:wave: I'm Jun from China.  
-Study:
-- from 10.2020 **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc** @ Technical University of Munich, Munich, Germany
-- 09.2015 - 06.2019 Vehicle Engineering B.Eng @ South China University of Technology, Guangzhou, China
-
 I'm studying **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc** at **Technical University of Munich** in Germany.  
 I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
