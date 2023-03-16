@@ -8,7 +8,7 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
 --->
 
-<img src="tum.png" height="250"/>
+<img src="tum.jpg" height="250"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)  
 
