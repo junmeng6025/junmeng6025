@@ -12,7 +12,7 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook" />
 </a>
 <a href="tum.jpg">
-  <img align="center" src="tum.jpg" height="180"/>
+  <img align="center" src="tum.jpg" height="170"/>
 </a>
 
 <!-- <img src="tum.jpg" height="250"/>
