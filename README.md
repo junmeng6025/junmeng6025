@@ -8,6 +8,13 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
 --->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junmeng6025&layout=compact&hide=jupyter%20notebook" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="tum.jpg" height="250"//>
+</a>
+
 <img src="tum.jpg" height="250"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)  
