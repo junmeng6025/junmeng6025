@@ -9,7 +9,7 @@ Currently I'm doing an internship about ADAS at **Porsche Engineering**, base MÃ
 --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junmeng6025&repo=github-readme-stats&layout=compact&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook" />
 </a>
 
 <!-- <img src="tum.jpg" height="250"/>
