@@ -15,7 +15,7 @@ https://github.com/anuraghazra/github-readme-stats
     <img align="center" src="munich-small.png" height="165"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&langs_count=6&layout=compact&hide=jupyter%20notebook,CMake,Makefile&theme=Gradient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&langs_count=6&layout=compact&hide=jupyter%20notebook,CMake,Makefile"/>
   </a>
 </div>
 
