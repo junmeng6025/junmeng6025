@@ -4,9 +4,10 @@ Hi~:wave: I'm Jun from China.
 :mag: I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 :briefcase: Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
 :beginner: My most used languages are
-<a href="https://github.com/search?q=user%3junmeng6025+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3junmeng6025+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white"></a>.
-And I have pretty much experience on ROS and ROS2.
+
+<!-- <a href="https://github.com/search?q=user%3Ajunmeng6025+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ajunmeng6025+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white"></a>.
+And I have pretty much experience on ROS and ROS2. -->
 
 <!--
 status card referred from
