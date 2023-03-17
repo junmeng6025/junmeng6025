@@ -1,5 +1,5 @@
 # Meng, Jun
-Hi~:wave: I'm Jun from China.  
+:wave: Hi~ I'm Jun from China.  
 :mortar_board: I'm studying **Automotive Engineering M.Sc** and **Mechatronics & Robotics M.Sc** at **Technical University of Munich** in Germany.  
 :mag: I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 :briefcase: Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
