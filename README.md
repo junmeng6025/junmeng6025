@@ -4,8 +4,8 @@ Hi~:wave: I'm Jun from China.
 :mag: I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 :briefcase: Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
 
-<a href="https://github.com/search?q=user%3junmeng6025+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3junmeng6025+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white"></a> are my most used languages. 
+<a href="https://github.com/search?q=user%3Ajunmeng6025+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ajunmeng6025+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white"></a> are my most used languages. 
 And I have pretty much experience on ROS and ROS2.
 
 
@@ -23,8 +23,6 @@ https://github.com/anuraghazra/github-readme-stats
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&langs_count=6&layout=compact&hide=jupyter%20notebook,CMake,Makefile"/>
   </a>
 </div>  
-
-<br>
 
 <!-- I have experience & interest in:
 - Application of Deep Learning / CV in Autonomous Driving
