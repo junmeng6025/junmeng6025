@@ -4,9 +4,12 @@ Hi~:wave: I'm Jun from China.
 :mag: I'm focusing on software development for Advanced Driver Assisistance System (ADAS) as well as Autonomous Driving.  
 :briefcase: Currently I'm doing an internship about ADAS at **Porsche Engineering**, base Mönsheim, Germany.  
 
-<!-- -
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs)
-- -->
+<!--
+status card referred from
+https://github.com/anuraghazra/github-readme-stats
+-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmeng6025&show_icons=true&hide=prs) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook) -->
 <div align='center'>
   <a href="munich.png">
     <img align="center" src="munich-small.png" height="165"/>
@@ -15,11 +18,6 @@ Hi~:wave: I'm Jun from China.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&langs_count=6&layout=compact&hide=jupyter%20notebook,CMake,Makefile" />
   </a>
 </div>
-
-
-<!-- <img src="tum.jpg" height="250"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmeng6025&layout=compact&hide=jupyter%20notebook)   -->
 
 <!-- I have experience & interest in:
 - Application of Deep Learning / CV in Autonomous Driving
